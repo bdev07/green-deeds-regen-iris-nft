@@ -44,7 +44,7 @@ Fig. 2 - Example of a Green Deeds NFT Badge
 
 Green Deeds already ensures accuracy and truth-telling by utilizing existing infrastructure in recycling and composting industries.  Our app recognizes receipts from well-known recycling machines and composting non-profits (Fig. 3).
 
-![Reciept Example](./image/readme/bottlereceipt.jpg)
+<img src="./image/readme/bottlereceipt.jpg" width="200">
 
 When a user uploads a receipt from these partners, our app validates the receipts and rewards users for their deed.  Please watch our [demo video](https://youtu.be/NjBQ16nf4D8) for a more in depth look at existing user flow.
 
