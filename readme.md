@@ -61,9 +61,14 @@ Green Deeds will issue NFTs using IRISnet to users who have reached milestones i
 
 We were able to create a mock version of our NFT on an IRISnet local node.  More details on that experience can be found [here](./irisnet-nft.md).
 
+IRISnet Screenshots:
+- [All badges issued to IRISnet local node](./image/readme/allbadgesissued.jpg)
+
+- [Level one badge minted to IRISnet local node](./image/readme/mintlevelone.jpg)
+
 ## Development of a new Credit Class for "Green Stewards"
 
-The Green Deeds system uses existing recycling machines and composting companies to prove our end users have done a green deed.  Creating a new Regen Credit Class for these partners would create a fully decentralized system where both the individual and the businesses have incentive for regenerating the ecosystem.  
+The Green Deeds system uses existing recycling machines and composting companies to prove our end users have done a green deed.  Creating a new Regen Credit Class for these partners would create a fully decentralized system where both the individual and the businesses have incentive for regenerating the ecosystem and providing data for those efforts.  These recycling machiens and composting companies can be thought of as "Green Stewards", ecological stewards who do not own land. 
 
 Green Deeds provides all the requirements for a Regen Registry review for a Credit Class already. ([Section 11.1](https://www.google.com/url?q=https://regen-registry.s3.amazonaws.com/Regen%2BRegistry%2BProgram%2BGuide.pdf&sa=D&source=editors&ust=1620244405466000&usg=AOvVaw1eRa__WAib8m4fkcXAgPZQ))
 
@@ -85,6 +90,13 @@ activity is viable under current market conditions.
 ````
 
 -  Because our concept works without being backed by ecocredits, we can demonstrate potential for ecological impact with these services as soon as our app launches.
+
+#
+## Conclusion
+
+Green Deeds provides an interface for individuals to prove their ecological impact and be instantly rewarded for those deeds.  Every deed is recorded on a blockchain ledger, which provides our end users with a permanent ledger of their ecological impact.  As of now, users are rewarded and their efforts recorded solely on the Celo blockchain.   
+
+To further incentivize our users to recycle or compost, our NFT feature will be implemented using Regen Networks eco-credits.  This not only rewards our end users with a permanent badge and proof of their green deeds, but also allows them to see how their efforts are directly impacting their environment.  Further, their actions are permanently recorded on the Regen Ledger, which provides a second ledger for proof of our users’ work.  We hope these badges eventually reach a standard similar to that of sanitary grades posted in restaurants around the US, so businesses can market their regeneration efforts to potential customers.
 
 
 #
