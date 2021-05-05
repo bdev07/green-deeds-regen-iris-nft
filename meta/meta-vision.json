@@ -1,0 +1,22 @@
+{
+  "title": "Green Deeds Regen TX Metadata",
+  "type": "object",
+  "properties": {
+    "name": {
+      "type": "string",
+      "description": "Green Deeds Level Two Badge"
+    },
+    "description": {
+      "type": "string",
+      "description": "Reciepient earned a Green Deeds Level Two Badge."
+    },
+    "image": {
+      "type": "string",
+      "description": "image/badge-level-two.JPG"
+    },
+    "regentx": {
+      "type": "string",
+      "description": "List of transaction hashes associated with ecocredits this recipient had a hand in generating."
+    }
+  }
+}
