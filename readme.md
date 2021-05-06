@@ -21,7 +21,7 @@
 - Link to proof of concept for IRISnet [NFT integration](./irisnet-nft.md).
 
 
-Green Deeds incentivizes individuals and businesses to recycle and compost by rewarding their green deeds immediately with Celo cash. We believe our mission directly coincides with Regen Networks, as we aim to bring ecological awareness to society by incentivizing deeds that directly give back to the environment.  Coordinating our efforts with Regen Network would allow a centrality of knowledge for ecological service providers, stewards, small businesses and individuals. 
+Green Deeds incentivizes individuals and businesses to recycle and compost by rewarding their green deeds immediately with [Celo](https://celo.org/) cash. We believe our mission directly coincides with Regen Networks, as we aim to bring ecological awareness to society by incentivizing deeds that directly give back to the environment.  Coordinating our efforts with Regen Network would allow a centrality of knowledge for ecological service providers, stewards, small businesses and individuals. 
 
 Our NFT feature aims to incentivize our users by rewarding them with NFTs after a certain amount of green deeds are done.  NFTs backed with tokenized carbon credits is the best way for our users to see the impact their actions have on our climate, and expands the ecological social system Regen Network desires to build.
 
@@ -141,3 +141,5 @@ To further incentivize our users to recycle or compost, our NFT feature will be 
 - [IRISnet NFT integration](./irisnet-nft.md)
 
 - [How it works for food waste](./foodwaste.md)
+
+- [Celo](https://celo.org/)
