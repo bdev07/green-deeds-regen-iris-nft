@@ -28,3 +28,31 @@ iris tx nft mint greendeedlevel1 gdl1n1 --uri=image/badge-level-one.JPG --recipi
 
 ````
 
+This is an example of how we might integrate Regen Network's eco-credits into the NFT [metadata](./meta/meta-vision.json).
+
+````
+{
+  "title": "Green Deeds Regen TX Metadata",
+  "type": "object",
+  "properties": {
+    "name": {
+      "type": "string",
+      "description": "Green Deeds Level Two Badge"
+    },
+    "description": {
+      "type": "string",
+      "description": "Reciepient earned a Green Deeds Level Two Badge."
+    },
+    "image": {
+      "type": "string",
+      "description": "image/badge-level-two.JPG"
+    },
+    "regentx": {
+      "type": "string",
+      "description": "List of transaction hashes associated with ecocredits this recipient had a hand in generating."
+    }
+  }
+}
+
+````
+
