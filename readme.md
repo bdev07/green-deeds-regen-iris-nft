@@ -12,12 +12,11 @@
 
 
 ## What is Green Deeds?
+- Link to our [demo](https://youtu.be/v4Md0cnpEx4) with NFT integration.
 
 - Link to our full [presentation](https://www.youtube.com/watch?v=IKhEv0-V1wc).
 
 - Link to our [demo](https://youtu.be/NjBQ16nf4D8) for Celo, mobile-first, integration.
-
-- Link to our [demo]() with NFT integration.
 
 - Link to proof of concept for IRISnet [NFT integration](./irisnet-nft.md).
 
@@ -91,6 +90,9 @@ activity is viable under current market conditions.
 
 -  Because our concept works without being backed by ecocredits, we can demonstrate potential for ecological impact with these services as soon as our app launches.
 
+Please see the [second section](https://youtu.be/v4Md0cnpEx4?t=160) of our NFT demo video for additional info.
+
+
 ### How does it work for [food waste](./foodwaste.md)?
 
 A user starts by sorting their acceptable food waste into compostable bags.
@@ -134,7 +136,7 @@ To further incentivize our users to recycle or compost, our NFT feature will be 
 
 - [Celo User Flow](https://youtu.be/NjBQ16nf4D8)
 
-- [NFT User Flow]()
+- [NFT User Flow](https://youtu.be/v4Md0cnpEx4)
 
 - [IRISnet NFT integration](./irisnet-nft.md)
 
