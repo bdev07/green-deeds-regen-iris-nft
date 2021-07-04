@@ -1,5 +1,8 @@
 # Green Deeds Regen Integration with IRISnet NFTs
 
+# SNI Hack:
+Please view our official deliverable for the SNI Hackathon [here](https://github.com/greendeeds/green-deeds-android/tree/compost-user-flow).
+
 ## The Green Deeds Vision:
 
 - Green Deeds users are immediately rewarded for their green deeds with Celo Dollars 
